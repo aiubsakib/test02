@@ -19,4 +19,4 @@ data "azurerm_resource_group" "ResGroup" {
   name = "RG-SCUSTFStorage"
   location = "East US"
 }
-
+#
